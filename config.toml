@@ -1,0 +1,14 @@
+version = 1
+
+[diagnostics]
+dump = true
+max_log_size_mb = 100
+
+[[device]]
+name = "Flydigi Vader 5 Pro"
+default_mapping = "vader5pro-cyberpunk"
+
+[[device]]
+name = "SCUF Envision Pro V2"
+default_mapping = "envisionprov2-default"
+output_profile = "dualsense-edge-native"

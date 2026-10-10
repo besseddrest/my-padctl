@@ -1,0 +1,14 @@
+[remap]
+LM = "KEY_9"
+RM = "KEY_0"
+C = "KEY_VOLUMEDOWN"
+Z = "KEY_VOLUMEUP"
+O = "KEY_MUTE"
+
+# [remap]
+# Paddle1 = "KEY_1"
+# Paddle2 = "KEY_2"
+# Paddle3 = "KEY_3"
+# Paddle4 = "KEY_4"
+# LM = "LS"
+# RM = "RS"
